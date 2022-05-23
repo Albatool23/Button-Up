@@ -1,0 +1,39 @@
+
+ #search{
+    color:rgb(12, 156, 108);
+    background-color:rgb(213, 224, 234);
+    width: 15%;
+    padding: 8px 20px;
+    border-radius: 20px;
+    border: 1px solid rgb(12, 156, 108);
+}
+
+#plus{
+    color:white;
+    background-color:rgb(136, 190, 172) ;
+    border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  border: 1px solid rgb(136, 190, 172) ;
+  
+    
+    
+}
+
+
+#Create{
+    box-shadow: 3px 3px black;
+color: white;
+background-color: rgba(22, 123, 196, 0.845);
+
+width: 15%;
+padding: 8px 20px;
+border: 1px solid  black;
+
+}
+
+
+body {
+    display: block;
+    margin: 50px;
+}
